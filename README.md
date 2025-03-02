@@ -7,6 +7,19 @@
 npm run dev
 ```
 
+## 目录
+
+AI 优化前代码
+```
+./.comate-f2c/Demo
+```
+
+AI 优化后代码
+```
+./src/components/Demo
+```
+
+
 
 ## F2C AI 工作流
 >Power by Comate Zulu AI
@@ -15,7 +28,8 @@ npm run dev
 
 https://www.figma.com/design/MQ2VoWnBGngBE1sLd4PdRx/F2C-AI?node-id=7-106&t=3FmOEBRljadaz4FO-4
 
-2. 详细步骤(内部使用，暂未公开)
+
+2. 详细步骤 (内部使用，暂未公开)
 
 [F2C Zulu 体验](https://ku.baidu-int.com/knowledge/HFVrC7hq1Q/M-wK0zh99p/mTQY0VEf8w/QQPTUHz_DkhmDA)
 
