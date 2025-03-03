@@ -9,19 +9,20 @@
     "build": "emp build",
     "start": "emp serve",
     "stat": "emp build --analyze",
-    "emp": "emp"
+    "lint": "biome check . --fix"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@empjs/cli": "^3.1.10",
-    "@empjs/plugin-react": "^3.1.4",
+    "@empjs/biome-config": "^0.7.2",
+    "@empjs/cli": "^3.6.1",
+    "@empjs/plugin-react": "^3.6.0",
     "@types/react": "^18.2.30",
-    "@types/react-dom": "^18.2.14"
+    "@types/react-dom": "^18.2.14",
+    "typescript": "^5.8.2"
   },
   "dependencies": {
-    "@empjs/share": "^3.1.10",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
